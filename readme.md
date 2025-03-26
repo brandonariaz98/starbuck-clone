@@ -12,3 +12,5 @@ Order & Checkout System: Simulates the real Starbucks ordering process.
 Responsive Design: Optimized for desktops, tablets, and mobile devices.
 
 Perfect for developers, designers, or businesses looking to explore e-commerce functionality in the coffee industry. ☕✨
+
+![image](https://github.com/user-attachments/assets/06263ad4-1577-4dd4-a33f-72e77e391233)
